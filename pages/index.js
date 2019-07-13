@@ -2,7 +2,7 @@ import React from 'react';
 import Link from 'next/link';
 import Head from 'next/head';
 import GreenBar from '../src/components/GreenBar';
-import ProfilePic from '../static/profile_pic.png';
+import ProfilePic from '/static/profile_pic.png';
 
 function Home() {
   return (
