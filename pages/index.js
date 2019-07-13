@@ -9,7 +9,7 @@ function Home() {
       <Head>
         <title>test 1</title>
         <meta property="og:title" content="testing 123" />
-        <meta property="og:image" content="./profile_pic.png" />
+        <meta property="og:image" content="./static/profile_pic.png" />
       </Head>
       <h1>Welcome to NextJs 9 :) !</h1>
       <Link href="/users">
