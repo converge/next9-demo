@@ -19,8 +19,11 @@ function Home() {
         />
         <meta name="twitter:image" content={BlumenauBlog2} />
         <meta name="twitter:site" content="@netlify" />
-        <meta name="twitter:site" content="netlify.com" />
         <meta name="twitter:creator" content="@joao_o" />
+        <meta
+          name="twitter:domain"
+          content="heuristic-noyce-d93351.netlify.com"
+        />
       </Head>
       <h1>Welcome to NextJs 9 !</h1>
     </div>
