@@ -11,7 +11,7 @@ function Home() {
         <meta property="og:title" content="testing 333" />
         <meta property="og:image" content={BlumenauBlog} />
 
-        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content="TITLE OF POST OR PAGE" />
         <meta
           name="twitter:description"
