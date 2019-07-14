@@ -12,10 +12,6 @@ function Home() {
         <meta property="og:image" content={BlumenauBlog} />
 
         <meta name="twitter:card" content="summary" />
-        <meta
-          name="twitter:url"
-          content="https://egghead.io/courses/simplify-react-apps-with-react-hooks"
-        />
         {/* <meta name="twitter:image" content={BlumenauBlog2} /> */}
         <meta
           name="twitter:image"
