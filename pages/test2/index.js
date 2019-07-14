@@ -1,7 +1,7 @@
 // import React from 'react';
 import Head from 'next/head';
 import BlumenauBlog from '../../static/blumenau_blog.png';
-import BlumenauBlog2 from '../../static/blumenau_blog2.jpg';
+import ok from '../../static/ok.jpg';
 
 function Home() {
   return (
@@ -13,10 +13,11 @@ function Home() {
 
         <meta name="twitter:card" content="summary" />
         {/* <meta name="twitter:image" content={BlumenauBlog2} /> */}
-        <meta
+        {/* <meta
           name="twitter:image"
           content="https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/263/square_480/EGH_SimplifyHooks_Final.png"
-        />
+        /> */}
+        <meta name="twitter:image" content={ok} />
         <meta name="twitter:title" content="TITLE OF POST OR PAGE" />
         <meta
           name="twitter:description"
