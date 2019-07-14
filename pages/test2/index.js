@@ -17,7 +17,10 @@ function Home() {
           name="twitter:image"
           content="https://d2eip9sf3oo6c2.cloudfront.net/series/square_covers/000/000/263/square_480/EGH_SimplifyHooks_Final.png"
         /> */}
-        <meta name="twitter:image" content={ok} />
+        <meta
+          name="twitter:image"
+          content="https://heuristic-noyce-d93351.netlify.com/_next/static/images/ok-714bdb599828eddb4ccde6e9d4aaf197.jpg"
+        />
         <meta name="twitter:title" content="TITLE OF POST OR PAGE" />
         <meta
           name="twitter:description"
