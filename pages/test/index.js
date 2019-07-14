@@ -17,7 +17,10 @@ function Home() {
           name="twitter:description"
           content="DESCRIPTION OF PAGE CONTENT"
         />
-        <meta name="twitter:image" content={BlumenauBlog2} />
+        <meta
+          name="twitter:image"
+          content="http://gravatar.com/avatar/da00e54f8aa22a44d97d6dae09a8b859?size=210"
+        />
         <meta name="twitter:site" content="@netlify" />
         <meta name="twitter:site" content="netlify.com" />
         <meta name="twitter:creator" content="@joao_o" />
